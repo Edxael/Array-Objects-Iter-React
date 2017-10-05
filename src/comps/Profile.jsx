@@ -1,7 +1,6 @@
 import React from 'react';
 
 
-
 class Singer extends React.Component {
   render() {
     const conSty = { border: "2px solid black", padding: "3px", width: "180px", background: "rgb(196, 254, 169)", margin: "4px" }
